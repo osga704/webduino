@@ -1,1 +1,1 @@
-MSG.catIframe = "Web Page";
+MSG.catIframe = "Web Page(old)";
