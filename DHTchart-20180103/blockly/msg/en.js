@@ -1,1 +1,1 @@
-MSG.catDHTchart = " DHT Chart";
+MSG.catDHTchart = " DHT Chart(old)";
