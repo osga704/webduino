@@ -1,1 +1,1 @@
-MSG.catDemoText = "显示文字(old)";
+MSG.catDemoText = "显示文字(delete)";
