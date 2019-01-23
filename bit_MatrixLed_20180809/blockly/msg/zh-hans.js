@@ -1,1 +1,1 @@
-MSG.catMatrixLed = "法兰斯点矩阵(old)";
+MSG.catMatrixLed = "法兰斯点矩阵(delete)";
