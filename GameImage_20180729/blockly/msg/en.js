@@ -1,1 +1,1 @@
-MSG.catImage = "Game Image(old)";
+MSG.catImage = "Game Image(delete)";
