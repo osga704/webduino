@@ -1,1 +1,1 @@
-MSG.catImage = "遊戲元素(old)";
+MSG.catImage = "遊戲元素(delete)";
