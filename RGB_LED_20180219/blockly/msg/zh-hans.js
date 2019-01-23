@@ -1,1 +1,1 @@
-MSG.catrgbled = "RGB LED(old)";
+MSG.catrgbled = "RGB LED(delete)";
