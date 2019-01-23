@@ -1,1 +1,1 @@
-MSG.catCreateButton = "Web Demo(old)";
+MSG.catCreateButton = "Web Demo(delete)";
