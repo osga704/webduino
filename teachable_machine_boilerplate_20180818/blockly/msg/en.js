@@ -1,1 +1,1 @@
-MSG.teachable_machine = "Teachable Machine(old)";
+MSG.teachable_machine = "Teachable Machine(delete)";
