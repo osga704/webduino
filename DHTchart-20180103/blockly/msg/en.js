@@ -1,1 +1,1 @@
-MSG.catDHTchart = " DHT Chart(old)";
+MSG.catDHTchart = " DHT Chart(delete)";
