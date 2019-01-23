@@ -1,1 +1,1 @@
-MSG.catMatrixLed = "Matrix Led(old)";
+MSG.catMatrixLed = "Matrix Led(delete)";
