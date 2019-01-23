@@ -1,1 +1,1 @@
-MSG.catSpeakmodify = "朗读语言(old)";
+MSG.catSpeakmodify = "朗读语言(delete)";
