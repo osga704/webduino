@@ -1,1 +1,1 @@
-MSG.catthingspeak = "ThingSpeak(old)";
+MSG.catthingspeak = "ThingSpeak(delete)";
