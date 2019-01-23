@@ -1,1 +1,1 @@
-MSG.catIframe = "顯示網頁(old)";
+MSG.catIframe = "顯示網頁(delete)";
