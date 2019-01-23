@@ -1,1 +1,1 @@
-MSG.catMatrixLed = "模拟指示灯(old)";
+MSG.catMatrixLed = "模拟指示灯(delete)";
