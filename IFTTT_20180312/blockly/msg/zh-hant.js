@@ -1,1 +1,1 @@
-MSG.catifttt = "IFTTT(old)";
+MSG.catifttt = "IFTTT(delete)";
