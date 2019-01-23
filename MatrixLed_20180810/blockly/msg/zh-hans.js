@@ -1,1 +1,1 @@
-MSG.catMatrixLed = "模拟点矩阵(old)";
+MSG.catMatrixLed = "模拟点矩阵(delete)";
