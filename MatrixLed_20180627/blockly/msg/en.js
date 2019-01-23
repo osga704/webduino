@@ -1,1 +1,1 @@
-MSG.catMatrixLed = "Simulation Indicator Light(old)";
+MSG.catMatrixLed = "Simulation Indicator Light(delete)";
