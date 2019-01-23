@@ -1,1 +1,1 @@
-MSG.catpmgov = "台湾空气品质(old)";
+MSG.catpmgov = "台湾空气品质(delete)";
